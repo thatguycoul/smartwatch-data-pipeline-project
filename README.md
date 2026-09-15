@@ -1,6 +1,6 @@
 Overview:
 
-The goal of this project was to test my skills using different tools, such as VSCODE for Python and PostgreSQL for SQL to examine, clean up, and analyze data gathered from user's smartwatches. This is my first project after learning how to work with data for about a month. It was pretty hard at first, but I had fun scrounging through my notes in a way! I'm not sure exactly how to organize this README, but I hope it is clear.
+The goal of this project was to test my skills using different tools, such as VSCODE for Python and PostgreSQL for SQL to examine, clean up, and analyze data gathered from user's smartwatches. This is my first project after learning how to work with data for about a month. It was pretty hard at first, but I had fun scrounging through my notes in a way! 
 
 Background: 
 
@@ -14,4 +14,14 @@ Python
 -NumPy
 -Matplotlib
 PostgreSQL
+
+Cleaning the Data:
+
+The data I decided to use consisted of 10,000 rows of data. They were organized into 7 columns. There were a couple of things that needed to be cleaned up before I could really analyze the data in front of me. 
+
+- Multiple missing values in almost every row and column
+- Some very unlikely data values (ex. heart rates way above 250 BPM 
+- ERRORs listed in some of the rows in the 'Sleep Level' column
+- Inconsistencies in the input of certain data values (Highly Active vs Highly_Active in the "Activity Level" column)
+- Typographical errors (Sedentary vs. Seddentary in the "Activity Level" column)
 
