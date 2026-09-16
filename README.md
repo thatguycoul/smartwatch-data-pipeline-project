@@ -84,6 +84,7 @@ Visualizations:
 I used matplotlib (which I learned recently) to make 2 charts so I could get some practice with it. I've attached them in my files. 
 
 ![Counts for Each Activity Level](smartwatch-data-pipeline-project/activity level counts.png) 
+
 What I've Learned:
 
 After going through the motions, stressing what code does what, etc., I've solidified my knowledge when it comes to working with different libraries within Python, using VSCode as an IDE, and using PostgreSQL to run queries to get answers to analytical questions based on this dataset. 
