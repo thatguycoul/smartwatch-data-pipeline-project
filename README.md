@@ -86,7 +86,8 @@ I used matplotlib (which I learned recently) to make 2 charts so I could get som
 Counts for Each Activity Level
 ![Counts for Each Activity Level](activity_level_counts.png) 
 
-![Scatter Chart(heart rate vs. step count](
+Heart Rate vs Step Count
+![Scatter Chart(heart rate vs. step count](scatter(heart_rate_vs_step_count).png)
 
 What I've Learned:
 
