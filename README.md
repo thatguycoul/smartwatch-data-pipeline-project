@@ -3,8 +3,9 @@ Overview:
 The goal of this project was to test my skills using different tools, such as VS Code for Python and PostgreSQL for SQL to examine, clean up, and analyze data gathered from users' smartwatches. This is my first project after learning how to work with data for about a month. It was pretty hard at first, but I had fun scrounging through my notes in a way! 
 
 Background: 
-a
-I am someone that others would consider fit, or at least strong anyway. I figured that the best data I could start out with would be something fitness-related. Ding! That's when the search began! I found some anonymous smartwatch data from Kaggle that I could work with, as it wasn't too complicated for a first project.
+
+
+I am someone that others would consider fit, or at least strong anyway. I figured that the best data I could start out with would be something fitness-related. I found some anonymous smartwatch data from Kaggle that I could work with, as it wasn't too complicated for a first project.
 
 
 Tools Used:
@@ -91,4 +92,4 @@ Heart Rate vs Step Count
 
 What I've Learned:
 
-After going through the motions, stressing what code does what, etc., I've solidified my knowledge when it comes to working with different libraries within Python, using VSCode as an IDE, and using PostgreSQL to run queries to get answers to analytical questions based on this dataset. 
+After working through familiar in a lot of ways yet unfamiliar in practice, I've solidified my knowledge when it comes to working with different libraries within Python, using VSCode as an IDE, and using PostgreSQL to run queries to get answers to analytical questions based on this dataset. I did enjoy the challenge!
