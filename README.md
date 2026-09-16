@@ -83,7 +83,10 @@ Visualizations:
 
 I used matplotlib (which I learned recently) to make 2 charts so I could get some practice with it. I've attached them in my files. 
 
+Counts for Each Activity Level
 ![Counts for Each Activity Level](activity_level_counts.png) 
+
+![Scatter Chart(heart rate vs. step count](
 
 What I've Learned:
 
